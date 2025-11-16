@@ -3,7 +3,7 @@
 **CS & ITWS @ RPI**  
 Full-stack development • Application security • Cloud & SaaS systems
 
-D3 Men's Soccer Athlete
+D3 Men's Soccer Player
 
 ---
 
