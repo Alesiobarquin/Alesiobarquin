@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**Alesiobarquin/Alesiobarquin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Alesio 👋
+I'm a CS & ITWS student at Rensselaer Polytechnic Institute, focusing on full-stack development and application security. I enjoy building scalable systems, working across the stack, and exploring security tools and techniques.
+⚡ What I Work With
+Languages: Python • Java • C++ • JavaScript • TypeScript
+Tools & Frameworks: React • Next.js • Node.js • TailwindCSS • Flask • Supabase
+Interests: Secure app design • Vulnerability analysis • Full-stack engineering
+📌 Currently
+Building side projects in Next.js, Python, and security automation
+Developing stronger expertise in cloud deployments & SaaS architectures
+Pursuing CompTIA Security+
