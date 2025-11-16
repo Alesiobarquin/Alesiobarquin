@@ -1,10 +1,32 @@
-Hi, I'm Alesio 👋
-I'm a CS & ITWS student at Rensselaer Polytechnic Institute, focusing on full-stack development and application security. I enjoy building scalable systems, working across the stack, and exploring security tools and techniques.
-⚡ What I Work With
-Languages: Python • Java • C++ • JavaScript • TypeScript
-Tools & Frameworks: React • Next.js • Node.js • TailwindCSS • Flask • Supabase
-Interests: Secure app design • Vulnerability analysis • Full-stack engineering
-📌 Currently
-Building side projects in Next.js, Python, and security automation
-Developing stronger expertise in cloud deployments & SaaS architectures
-Pursuing CompTIA Security+
+# 👋 Hey, I'm Alesio
+
+**CS & ITWS @ RPI**  
+Full-stack development • Application security • Cloud & SaaS systems
+
+D3 Men's Soccer Athlete
+
+---
+
+## ⚡ Tech Snapshot
+**Languages:** Python · Java · C++ · JavaScript · TypeScript  
+**Frameworks:** React · Next.js · Node.js · Flask · TailwindCSS  
+**Tools:** Git · GitHub · Vercel · Azure · AWS · Supabase  
+**Focus Areas:** Secure app design · Vulnerability analysis · Full-stack engineering
+
+---
+
+## 🧭 Previous Experience
+**Think Big Technology:**  
+https://www.linkedin.com/company/think-big-technology-nj/posts/?feedView=all
+
+---
+
+## 🎯 What I’m Doing
+- Building new projects
+- Contributing to open source repo's
+  
+## 📬 Get in Touch
+**Email:** alesiobarquin@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/alesio-barquin/
+
+---
