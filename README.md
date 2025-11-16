@@ -1,5 +1,3 @@
-# 👋 Hey, I'm Alesio
-
 **CS & ITWS @ RPI**  
 Full-stack development • Application security • Cloud & SaaS systems
 
