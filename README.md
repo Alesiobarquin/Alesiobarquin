@@ -27,5 +27,4 @@ https://www.linkedin.com/company/think-big-technology-nj/posts/?feedView=all
 **Email:** alesiobarquin@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/alesio-barquin/
 
-
 ---
