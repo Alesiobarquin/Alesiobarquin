@@ -9,7 +9,7 @@ D3 Men's Soccer Player
 **Languages:** Python · C++ · JavaScript · TypeScript · Java  
 **Frameworks:** React · Next.js · Node.js · Flask · TailwindCSS  
 **Tools:** Git · GitHub · Vercel · Azure · AWS · Supabase  
-**Focus Areas:** Secure app design · Vulnerability analysis · Full-stack engineering
+**Focus Areas:** Full-stack engineering · Secure app design 
 
 ---
 
