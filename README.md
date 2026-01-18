@@ -18,10 +18,6 @@ D3 Men's Soccer Player
 https://www.linkedin.com/company/think-big-technology-nj/posts/?feedView=all
 
 ---
-
-## 🎯 What I’m Doing
-- Building new projects
-- Contributing to open source repo's
   
 ## 📬 Get in Touch
 **Email:** alesiobarquin@gmail.com  
