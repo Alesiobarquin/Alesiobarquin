@@ -1,5 +1,5 @@
 **CS & ITWS @ RPI**  
-Full-stack development • Application security • Cloud & SaaS systems
+Full-stack development
 
 D3 Men's Soccer Player
 
@@ -7,9 +7,9 @@ D3 Men's Soccer Player
 
 ## ⚡ Tech Snapshot
 **Languages:** Python · C++ · JavaScript · TypeScript · Java  
-**Frameworks:** React · Next.js · Node.js · Flask · TailwindCSS  
+**Frameworks:** React · Next.js · Node.js · Flask · Spring  
 **Tools:** Git · GitHub · Vercel · Azure · AWS · Supabase  
-**Focus Areas:** Full-stack engineering · Secure app design 
+**Focus Areas:** Full-stack engineering · Back-end engineering
 
 ---
 
