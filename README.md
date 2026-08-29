@@ -14,8 +14,12 @@ D3 Men's Soccer Player
 ---
 
 ## 🧭 Previous Experience
+**New York Life Insurance:**  
+https://www.linkedin.com/company/newyorklife/
+
 **Think Big Technology:**  
 https://www.linkedin.com/company/think-big-technology-nj/posts/?feedView=all
+
 
 ---
   
